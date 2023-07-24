@@ -9,4 +9,5 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * Netlify
 
 # Live Link:
+https://bhuteshkumarmeher07.github.io/Octanet_3rd_Task/
 
